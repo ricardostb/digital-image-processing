@@ -16,4 +16,4 @@ Image blurring with 3 approachs: basic, separable and integral image algorithms.
 Bloom using Gaussian blur and box blur.
 
 ### Rice Counting
-Estimates rice quantity, image pre-processing, segmentation and rice size estimate.estimativa
+Does image pre-processing, segmentation, rice size and quantity estimate.
